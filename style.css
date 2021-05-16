@@ -1,0 +1,74 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 24px;
+}
+nav{
+    padding-top: 1px;
+}
+nav ul li{
+    display: inline;
+    float: right;
+}
+nav ul li a {
+    color: inherit;
+    padding: 0.5em;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.main{
+    text-align: center;
+    padding-top: 115px;
+}
+.main input{
+    background: url('https://img.icons8.com/ios/20/666666/search.png') no-repeat scroll 1em 13px, url(/google-homepage/google-mic-seeklogo.com.svg) no-repeat scroll 42em 13px ;
+    outline: none;
+    background-size: 20px 20px;  /* for mic icon */
+    border-radius: 40px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ccc;
+    margin-top: 2%;
+    padding: 0 53px;
+    height: 3.5em;
+    width: 45em;
+}
+
+.btn-grp button{
+    margin: 2% 5px 0 5px;
+    background-color: #f7f7f7;
+    font-size: 14px;
+    border: none;
+    text-transform: capitalize;
+    border-radius: 5px;
+    padding: 0.8em;
+}
+.main span a{
+    display: inline-block;
+    margin-top: 1%;
+    padding: 3px;
+    text-decoration: none;
+}
+footer{
+    color:gray;
+    background-color: #f3f3f3;
+    font-size: 16px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+}
+footer ul li{
+    display: inline;
+}
+footer ul li a {
+    color: inherit;
+    display: inline-block;
+    padding: 0 0.4em;
+    text-decoration: none;
+}
+.rt{
+    float: right;
+}
