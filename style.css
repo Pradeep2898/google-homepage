@@ -23,7 +23,7 @@ a:hover{
     padding-top: 115px;
 }
 .main input{
-    background: url('https://img.icons8.com/ios/20/666666/search.png') no-repeat scroll 1em 13px, url(/google-homepage/google-mic-seeklogo.com.svg) no-repeat scroll 42em 13px ;
+    background: url('https://img.icons8.com/ios/20/666666/search.png') no-repeat scroll 1em 13px, url(./google-mic-seeklogo.com.svg) no-repeat scroll 42em 13px ;
     outline: none;
     background-size: 20px 20px;  /* for mic icon */
     border-radius: 40px;
